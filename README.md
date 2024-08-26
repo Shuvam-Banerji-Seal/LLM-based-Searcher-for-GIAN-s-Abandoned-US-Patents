@@ -1,0 +1,1 @@
+# LLM-based-Searcher-for-GIAN-s-Abandoned-US-Patents
